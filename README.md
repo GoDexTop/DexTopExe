@@ -1,3 +1,5 @@
+Final commit for Version 1
+
 Unzip the dextopapp.zip file
 
 Run the dextop.exe file
@@ -7,8 +9,9 @@ if your browser does not open immediately.
 
 http://localhost:5555
 
+Updated v1.2 
 File passes multiple security tests.
-https://www.virustotal.com/gui/file/9ec338de5b4a6d1d8d2e3b3812de377e11c9610460bf233155b2bf92ad7adf20/detection
+https://www.virustotal.com/gui/file/35bdee39152ca959d9d9ea1b6ebef5bfd5f27f4d134d049295dad008d042c38b/detection
 
 
 ![image](https://github.com/user-attachments/assets/6a187b4a-223e-47f9-a1bb-e2aa0a66c1d9)
