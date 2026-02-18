@@ -1,13 +1,18 @@
+4.7
+
 Final commit for Version 4
 
-Unzip the dextopapp.zip file
+Unzip the dextop zip file
 
-Run the dextop.exe file
+Run the one dextop.exe file in the unzipped folder
 
-Paste this URL in your browser
+Paste this URL in your browser 
+
+http://127.0.0.1:3000/ 
+
 if your browser does not open immediately.
 
-http://localhost:1010
+
 
 Updated v4 
 File passes multiple security tests.
